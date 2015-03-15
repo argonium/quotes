@@ -1,4 +1,4 @@
-# quotes
+# Quotes
 Quotes is a standalone Java GUI application (using Swing) that allows a user to search a collection of quotations. The data consists of a set of quotations with an associated author and topic. Quotes is released under an MIT license, and offers a number of options for searching:
 
 * Wildcard searches (using '\*' and '%')
