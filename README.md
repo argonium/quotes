@@ -6,6 +6,8 @@ Quotes is a standalone Java GUI application (using Swing) that allows a user to 
 * Regular expression
 * Contains
 
+![Quotes](http://argonium.github.io/quotes.png)
+
 The first two search modes reuse the code featured elsewhere on this web site. A wildcard search means the '\*' and '%' characters have a special meaning: '\*' means to match any string of consecutive characters (zero or more), and '%' means to match any one character. A Soundex search means to match on words that sound similar. A regular expression search means to allow the use of regular expressions in the search term. If you don't know what a regular expression is, don't use this option.
 
 One useful feature of this application is the ability to search based on not just a word in the quotation, but also include a word or phrase from the quote's author.
